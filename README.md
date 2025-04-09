@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beabueno&show_icons=true&theme=calm" alt="Beatriz GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=beabueno&theme=calm" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beabueno&layout=compact&theme=calm" alt="Linguagens mais usadas" />
 </p>
 
