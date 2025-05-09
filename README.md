@@ -6,15 +6,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beabueno&show_icons=true&theme=calm" alt="Beatriz GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beabueno&layout=compact&theme=calm" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🚀 Minhas principais habilidades
 
 <p align="center">
